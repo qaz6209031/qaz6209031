@@ -23,8 +23,8 @@
 ### Github Analytics ⚙️
 <p>
 <a href="https://github.com/qaz6209031">
-  <img height="180em" style="float:left" src="https://github-readme-stats.vercel.app/api?username=qaz6209031&count_private=true&show_icons=true&theme=vue-dark"/>
-  <img height="180em" style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaz6209031&layout=compact&theme=vue-dark&langs_count=8"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=qaz6209031&count_private=true&show_icons=true&theme=vue-dark"/>
+  <img height="180em" aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaz6209031&layout=compact&theme=vue-dark&langs_count=8"/>
 </p>
 
 ### My Blog :open_book:
