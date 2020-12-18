@@ -1,6 +1,6 @@
 ![alt text](https://github.com/qaz6209031/qaz6209031/blob/main/img/Kai.png)
 
-<img alt="wave" src="./gif/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Kai</h2>
+<img alt="Hand%20Wave" src="./gif/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Kai</h2>
 
 ### About me 👨‍💻
 - 🇹🇼 I was born and raised in Taiwan 
@@ -21,9 +21,18 @@
 
 
 ### Github Analytics ⚙️
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qaz6209031&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaz6209031&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/qaz6209031">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qaz6209031&count_private=true&show_icons=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaz6209031&layout=compact&theme=vue-dark&langs_count=8"/>
+</p>
 
 ### My Blog :open_book:
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kai-chin.medium.com/)
