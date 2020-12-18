@@ -1,9 +1,11 @@
 ### About me 👋
-- 🔭 I was born and raised in Taiwan :taiwan:
-- 👯 I am a senior computer science major at [Cal Poly San Luis Obispo](https://www.calpoly.edu/)
+- 🇹🇼 I was born and raised in Taiwan 
+- 👨‍💻 I am a senior computer science major at [Cal Poly San Luis Obispo](https://www.calpoly.edu/)
 - 🌱 I’m currently learning on [freeCodeCamp.org](https://www.freecodecamp.org/)
-- 👯 I’m a contributor of [freeCodeCamp.org](https://www.freecodecamp.org/)
-- 📫 How to reach me: khunag@calpoly.edu
+- 👨‍👩‍👦‍👦	 I’m a contributor of [freeCodeCamp.org](https://www.freecodecamp.org/)
+- 🎓 I'm graduating in June 2021
+- 👨‍💻 I'm seeking for a software engineer position after graduation
+- 📫 You can shoot me a email at khunag@calpoly.edu
 - 😄 Pronouns: He/Him/His
 
 
