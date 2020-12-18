@@ -14,7 +14,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaz6209031&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with Me :handshake:	
-[![image](https://img.shields.io/badge/@perry___Huang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.google.com)
+
+[![image](https://img.shields.io/badge/Kai_Chin_Huang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-chin-huang-6938b2170/)[![image](https://img.shields.io/badge/@perry___Huang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.google.com)[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kai-chin.medium.com/)[![image](https://img.shields.io/badge/Kai_Chin_Huang-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001374891989)
 
 
 
