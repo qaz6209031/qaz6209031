@@ -13,6 +13,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qaz6209031&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaz6209031&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with Me :handshake:	
+### My Blog :open_book:
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kai-chin.medium.com/)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-chin-huang-6938b2170/)[![image](https://img.shields.io/badge/@perry___Huang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.google.com)[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kai-chin.medium.com/)
+### Connect with Me :handshake:
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-chin-huang-6938b2170/)[![image](https://img.shields.io/badge/@perry___Huang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perry____huang/)[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001374891989)
