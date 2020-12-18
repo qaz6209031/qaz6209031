@@ -1,3 +1,5 @@
+![alt text](https://github.com/qaz6209031/qaz6209031/blob/main/img/Kai.png)
+
 ### About me 👋
 - 🇹🇼 I was born and raised in Taiwan 
 - 👨‍💻 I am a senior computer science major at [Cal Poly San Luis Obispo](https://www.calpoly.edu/)
