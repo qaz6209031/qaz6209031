@@ -9,6 +9,7 @@
 - 👨‍💻 I'm seeking for a software engineer position after graduation
 - 📫 You can shoot me a email at khunag@calpoly.edu
 - 😄 Pronouns: He/Him/His
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/14ockZZwnl8ROezc9JiDle56SxOvG_piR/view?usp=sharing)
 
 
 ### Language & Tools :hammer_and_wrench:
