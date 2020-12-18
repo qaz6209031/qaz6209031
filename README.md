@@ -1,12 +1,11 @@
 ### About me 👋
 - 🔭 I was born and raised in Taiwan :taiwan:
+- 👯 I am a senior computer science major at [Cal Poly San Luis Obispo](https://www.calpoly.edu/)
 - 🌱 I’m currently learning on [freeCodeCamp.org](https://www.freecodecamp.org/)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m a contributor of [freeCodeCamp.org](https://www.freecodecamp.org/)
+- 📫 How to reach me: khunag@calpoly.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+
 
 ### Language & Tools :hammer_and_wrench:
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
