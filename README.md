@@ -1,5 +1,5 @@
 ### About me 👋
-- 🔭 I was born and raised in Taiwan :Taiwan:
+- 🔭 I was born and raised in Taiwan :taiwan:
 - 🌱 I’m currently learning on [freeCodeCamp.org](https://www.freecodecamp.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
