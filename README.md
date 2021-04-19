@@ -5,13 +5,12 @@
 ### About me 👨‍💻
 - 🇹🇼 I was born and raised in Taiwan 
 - 👨‍💻 I am a senior computer science major at [Cal Poly San Luis Obispo](https://www.calpoly.edu/)
-- 🌱 I’m currently learning on [freeCodeCamp.org](https://www.freecodecamp.org/)
 - 👨‍👩‍👦‍👦	 I’m a contributor of [freeCodeCamp.org](https://www.freecodecamp.org/)
-- 🎓 I'm graduating in June 2021
+- 🎓 I'm graduating in August 2021
 - 👨‍💻 I'm seeking for a software engineer position after graduation
 - 📫 You can shoot me a email at khunag@calpoly.edu
 - 😄 Pronouns: He/Him/His
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/14ockZZwnl8ROezc9JiDle56SxOvG_piR/view?usp=sharing)
+- 📄 Please reached out to me at my [LinkedIn](https://www.linkedin.com/in/kai-chin-huang-6938b2170/)
 
 <img alt="Night Coding" src="./gif/Night-Coding.gif" align="right"/>
 
