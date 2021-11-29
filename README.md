@@ -5,7 +5,7 @@
 ### About me 👨‍💻
 - 🇹🇼 I was born and raised in Taiwan 
 - 👨‍👩‍👦‍👦	 I’m a contributor of [Hack for LA](https://github.com/hackforla/website) and [freeCodeCamp.org](https://www.freecodecamp.org/) 
-- 🎓 I graduated from [Cal Poly San Luis Obispo](https://www.calpoly.edu/) August 2021 as a computer science major.
+- 🎓 I graduated from [Cal Poly San Luis Obispo](https://www.calpoly.edu/) September 2021 as a computer science major.
 - 👨‍💻 I am a software engineer at [Amazon](https://www.amazon.com/)
 - 📫 You can shoot me a email at huang_kaichin@gmail.com
 - 😄 Pronouns: He/Him/His
