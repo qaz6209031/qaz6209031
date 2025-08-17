@@ -5,10 +5,8 @@
 ### About me 👨‍💻
 - 👨‍💻 I am a software engineer at [Amazon](https://www.amazon.com/)
 - 🇹🇼 I was born and raised in [Taiwan](https://en.wikipedia.org/wiki/Taiwan) 
-- 👨‍👩‍👦‍👦	 I’m a contributor of [Hack for LA](https://github.com/hackforla/website) and [freeCodeCamp.org](https://www.freecodecamp.org/) 
 - 🎓 I graduated from [Cal Poly San Luis Obispo](https://www.calpoly.edu/) September 2021 as a computer science major.
 - 📫 You can shoot me a email at huang_kaichin@gmail.com
-- 😄 Pronouns: He/Him/His
 - 📄 Please reach out to me at my [LinkedIn](https://www.linkedin.com/in/kai-chin-huang-6938b2170/)
 
 <img alt="Night Coding" src="./gif/Night-Coding.gif" align="right"/>
